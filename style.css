@@ -93,6 +93,16 @@ h1, h2, h3 {
     padding-right: 2em;
 }
 
+/* Specific Styling for Virell Section */
+#virell-section {
+    background: linear-gradient(135deg, #e0f7fa, #ffffff);
+    border-left: 5px solid #2a9d8f;
+    padding: 1.5em;
+    margin: 2em 0;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+    border-radius: 12px;
+}
+
 /* Footer */
 footer {
     text-align: center;
